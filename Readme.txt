@@ -8,3 +8,5 @@ When you open the game for the first time, it generates some settings, so an uno
 OK means the game works and is the same version as the name of the folder
 
 And finally, the last number means how early the version was released. A version with a lower number was released before a version with a bigger number.
+
+Currently latest is 15, if you're looking for latest make sure to not download 13 by accident
